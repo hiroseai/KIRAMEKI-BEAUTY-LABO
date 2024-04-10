@@ -1,7 +1,5 @@
 /* voice
 ------------------------------------------ */
-/* voice
------------------------------------------- */
 var swiper = new Swiper('.swiper', {
     loop: true,
     centeredSlides: true,
